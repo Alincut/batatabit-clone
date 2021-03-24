@@ -1,2 +1,2 @@
 # batatabit-example
-Batatabit web page clone work is funny. El trabajo de clonación de la página web de Batatabit es divertido. 😉
+Práctica de Mobile First con un clon del website de Batatabit. Cloning the Batatabit website is fun. 😁
